@@ -1,0 +1,14 @@
+Data Structure: A way of organizing and storing data so that it can be accessed and modified efficiently.
+
+Data Structure define the layout of data in memory and help improve the performance of operations like searching, sorting
+and inserting.
+
+Ex: Array, LinkedList, Trees, Graphs.
+
+Algorithms: A finite sequence of well defined instructions to solve a problem.
+Algorithms are focussed on optimising time and space complexity.
+
+Ex: Searching, Sorting.
+
+Why DSA?
+Optimisation.

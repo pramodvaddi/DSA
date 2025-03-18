@@ -1,0 +1,19 @@
+BigO is a way of comparing tw sets of code.
+
+How did you compare? Mathematically how efficient they run.
+
+Time Complexity: Not measured in time. Measured in number of operations.
+
+Space Complexity: Preserving memory space.
+
+Dealing with Time and Space Complexity
+1. Omega  2.Theta 3.Omicron O
+
+Omega: Best Case
+Theta: Average Case
+Omicron: Worst Case.
+
+There is nothing like Average Case BigO and best case BigO. Average case is Theta, and the the best case is Omega.
+Technically, BigO is always worst case.
+
+O(n):
