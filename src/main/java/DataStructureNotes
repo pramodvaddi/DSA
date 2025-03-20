@@ -12,3 +12,20 @@ Ex: Searching, Sorting.
 
 Why DSA?
 Optimisation.
+
+DSA Goal: To solve problem effectively and efficiently.
+
+To determine the efficiency of a program, we look at two types of complexities.
+1. Time Complexity: How much time your code takes to run (When you change the inputs)
+2. Space Complexity: How much memory your code uses.
+
+Asymptotic Notations: To compare efficiency of algorithms. These are mathematical tools that estimates the time based on input size
+without running the code
+It focuses on how many operations our program performs, giving us an idea of how the algorithm behaves upon changing input sizes.
+
+Types of Asymptotic Notations:
+
+1. Big O : Describes the worst case scenario or the upper bound of how an algorithm performs upon the change of input.
+2. Omega : Describes the best case scenario or the lower bound.
+3. Theta : Describes the average case scenario or how the algorithm generally performs as the input changes.
+
